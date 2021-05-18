@@ -1,0 +1,375 @@
+.login{
+	margin-bottom: 1rem;
+}
+
+.label{
+	display: inline-block;
+    margin-bottom: .5rem;
+}
+
+.input{
+	display: block;
+    width: 100%
+}
+
+.textarea{
+	display: block;
+	width: 100%;
+}
+.abc{
+	text-align: justify;
+	line-height: 35px;
+	letter-spacing: 2px;
+	word-spacing: 2px;
+}
+.b{
+	background: url(https://www.firstfiddle.in/assets/images/bannerabout.jpg)
+	width: 100%;
+    padding-right: 0!important;
+    padding-left: 0!important;
+    margin-right: auto;
+    margin-left: auto;
+    background-size: cover;
+}
+*{
+			margin: 0px;
+			padding: 0px;
+		}
+		.a{
+			background-color:  #0000008f;
+			
+		}
+		.nav-link{
+			padding: 10px;
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 15px;
+            
+		}
+		.bc{
+			padding-left: 15px;
+
+		}
+		.desktop{
+			display: block;
+		}
+		.mob{
+			display: none;
+		}
+		.franchise{
+			border: 1px solid #fbaa1a;
+
+		}
+		.color{
+			color: white;
+		}
+		.headpic{
+			margin-top: 0px;
+		}
+		.findbtn{
+			    background: #fbaa1a;
+                color: white;
+                width: 200px;
+                height: 42px;
+                text-align: center;
+                padding-top: 10px;
+                box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+                font-weight: 100;
+		}
+		.why{
+			background: url(https://www.firstfiddle.in/assets/images/bannerabout.jpg);
+			width: 100%;
+			height: 490px;
+            padding-right: 0!important;
+            padding-left: 0!important;
+            margin-right: auto;
+            margin-left: auto;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+		}
+		.media{
+			font-family: 'Unica One', cursive;
+            
+            font-size: 60px;
+		}
+		.h1{
+			font-size: 70px;
+            font-family: 'Unica One', cursive;
+		}
+		.h2{
+            line-height: 500px;
+		}
+		.bg{
+			background: url(https://www.firstfiddle.in/assets/images/outletbanner.png);
+			width: 100%;
+			height: 590px;
+            padding-right: 0!important;
+            padding-left: 0!important;
+            margin-right: auto;
+            margin-left: auto;
+            margin-bottom: 0!important;
+            background-size: cover;
+		}
+		.lineheight{
+			line-height: 50px;
+		}
+		.mt{
+			margin-top: 80px;
+		}
+		.h{
+			height: 500px;
+		}
+		.text{
+			text-decoration: none;
+		}
+		.text:hover{
+			text-decoration: underline;
+		}
+		.back{
+			background: #111215;
+		}
+		.mt2{
+			margin-top: 20px;
+		}
+		.but{
+			border: 1px none;
+            height: 60px;
+            width: 60px;
+            border-radius: 50%;
+            background: #504d4991;
+            margin-top: 265px;
+		}
+		.form{
+			line-height: 40px;
+		}
+		.img-title {
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    left: 0;
+    right: 0;
+    top: 45%;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+.bi1{
+	background-image: url(https://www.firstfiddle.in/assets/images/banner-about.jpg);
+	width: 100%;
+	height: 650px;
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+.career{
+	padding-top: 315px;
+	font-size: 70px;
+}
+.bi2{
+	background-image: url(https://www.firstfiddle.in/assets/images/about-new.jpg);
+	width: 100%;
+	height: 650px;
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+.orstory{
+	font-size: 40px;
+}
+.ml{
+	margin-left: 20px;
+}
+.why3{
+	background: url(https://www.firstfiddle.in/assets/images/gamebanner.jpg);
+			width: 100%;
+			height: 440px;
+            padding-right: 0!important;
+            padding-left: 0!important;
+            margin-right: auto;
+            margin-left: auto;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+}
+.liwhy{
+	line-height: 50px;
+}
+.imgshadow{
+	box-shadow: 0 10px 16px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19)!important;
+}
+.bi3{
+	background-image: url(https://www.firstfiddle.in/assets/images/contact-new.jpg);
+	width: 100%;
+	height: 650px;
+	background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.bi4{
+	background-image: url(https://www.firstfiddle.in/assets/images/brands.jpg);
+	width: 100%;
+	height: 650px;
+	background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.bi5{
+	background-image: url(https://www.firstfiddle.in/assets/images/franchise-with-us.jpg);
+	width: 100%;
+	height: 650px;
+	background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.mt0{
+	margin-top: 0px;
+}
+.pad{
+	    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
+}
+.pad5{
+	    padding-left: 55px;
+    padding-right: 55px;
+    padding-top: 10px;
+}
+
+.t{
+	margin-top: 20px;
+}
+
+.bi6{
+	background-image: url(https://www.firstfiddle.in/assets/images/banner-press-release.jpg);
+	width: 100%;
+	height: 650px;
+	background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.pad6{
+	    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 10px;
+}
+.bx{
+	box-shadow: 0 10px 16px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19)!important;
+    
+}
+.scroll{
+	height: 425px;
+    overflow-y: scroll;
+}
+.k:hover{
+color: rgb(252, 178, 27); 
+}
+.z{
+	padding: 0px 100px 0px;
+}
+.x{
+	border: 0px solid;
+	padding: 60px 120px;
+	border-radius: 4px;
+}
+
+		@media(max-width: 768px)
+		{
+			.pad6{
+	    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+			.x{
+				padding: 10px 20px;
+			}
+			.z{
+				padding: 0px 10px 0px;
+			}
+			.v{
+	font-size: 17px;
+}
+			.bi6{
+				height: 375px;
+			}
+			.bi5{
+				height: 375px;
+			}
+			.pad{
+	        padding-left: 0px;
+            padding-right: 0px;
+    
+            }
+			.mt0{
+				margin-top: 50px;
+			}
+			.liwhy{
+				line-height: 26px;
+			}
+			.ml{
+				margin-left: 0px;
+			}
+			.ourstory{
+				font-size: 20px;
+			}
+			.bi2{
+				height: 375px;
+			}
+			.bi4{
+				height: 375px;
+			}
+
+			.career{
+				padding-top: 190px;
+				font-size: 40px;
+			}
+			.bi1 {
+				height: 375px;
+			}
+			.bi3 {
+				height: 375px;
+			}
+			.desktop{
+				display: none;
+			}
+            .mob{
+               display: block;
+            }
+            .a{
+            	background-color: #fbaa1a;
+            }
+            .headpic{
+            	margin-top: 58px;
+            }
+            .why{
+			background: url(https://www.firstfiddle.in/assets/images/bannerabout.jpg);
+			width: 100%;
+			height: 690px;
+            padding-right: 0!important;
+            padding-left: 0!important;
+            margin-right: auto;
+            margin-left: auto;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+		}
+		.h2{
+          line-height: 40px;
+		}
+		.h1{
+			font-size: 40px;
+		}
+		.lineheight{
+			line-height: 37px;
+		}
+		.mt{
+			margin-top: 0px;
+		}
+		.h{
+			height: 1050px;
+		}
+		.mt2{
+			margin-top: 0px;
+		}
+		.but{
+			display: none;
+		}
+		}

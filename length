@@ -1,0 +1,6 @@
+none = 576px
+small = sm = 576px
+medium = md = 768px
+lg = lg = 992px
+xl = xl = 1200px
+xxl = xxl = 1400px
